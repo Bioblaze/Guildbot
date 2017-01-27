@@ -1,0 +1,41 @@
+{
+  "name": "guildbot",
+  "version": "0.0.1",
+  "description": "This bot was Developed for the Purpose of having a Discord Bot Framework Standard for Developers to develop off of for Guilds.",
+  "keywords": [
+    "OpenShift",
+    "Node.js",
+    "Discord",
+    "Bioblaze",
+    "Bot",
+    "Payne",
+    "Guilds",
+    "Guild"
+  ],
+  "author": {
+    "name": "Bioblaze Payne",
+    "email": "BioblazePayne@gmail.com",
+    "url": "https://twitter.com/BioblazePayne"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bioblaze/Guildbot"
+  },
+  "bugs": {
+    "url": "https://github.com/Bioblaze/Guildbot/issues"
+  },
+  "analyze": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "discord.io": "^2.4.2",
+    "require-all": "^2.1.0"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "private": false,
+  "main": "bot.js"
+}
