@@ -26,7 +26,7 @@ var SYSTEM = {
   AUTHOR: require('./package.json').author.name + " <" + require('./package.json').author.email + ">",
   WEB: {
     MONGODB: "mongodb://localhost"
-  }
+  },
   CONFIG: null
 };
 console.log(`
